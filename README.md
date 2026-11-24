@@ -1,5 +1,7 @@
 # k580-drumpad
 
+Install loopMidi and add device with random name and start my code/soft
+
 | Key | Note |
 | :--- | :--- |
 | `Num 0` | C1 |
